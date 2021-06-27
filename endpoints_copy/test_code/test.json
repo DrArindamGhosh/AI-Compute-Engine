@@ -1,0 +1,18 @@
+{
+    "result": 
+
+    [
+
+        {
+            "image_name": "test1.jpg",
+            "prediction": "0",
+            "probability": 0.879
+        },
+
+        {
+            "image_name": "test2.jpg",
+            "prediction": "0",
+            "probability": "None"
+        }
+    ]
+}
